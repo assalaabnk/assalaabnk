@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Assala, I am a research enthusiast ✨ who wants to make the world a better place through science. I love learning new things and I do research in AI application and fairness. I am interested to learn more about Compute Vision and ML at the edge.
+
+
+- 🔭 I’m currently working on OOD detection in dermatology 
+- 🌱 I’m currently learning NLP
+- 👯 I’m looking to collaborate on Computer vision projects
+- 🤔 I’m looking for help with getting a PhD opportunity
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am not that tall :)
+
+ ✨✨✨✨ Learning is my gate way to the world, and technology is my tool!✨✨✨✨✨✨✨
