@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Assala, I am a research enthusiast ✨ who wants to make the world a better place through science. I love learning new things and I do research in AI application and fairness. I am interested to learn more about Compute Vision and ML at the edge.
+I am Assala, I am a research enthusiast ✨ who wants to make the world a better place through science. I love learning new things and I do research in AI application and fairness. I am interested to learn more about Computer Vision and ML at the edge.
 
 
 - 🔭 I’m currently working on OOD detection in dermatology 
