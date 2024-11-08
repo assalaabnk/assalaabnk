@@ -19,7 +19,7 @@ I am Assala, I am a research enthusiast ✨ who wants to make the world a better
 
 - 🔭 I’m currently working on OOD detection in dermatology 
 - 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on Computer vision projects
+- 👯 I’m looking to collaborate on research projects
 - 🤔 I’m looking for help with getting a PhD opportunity
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am not that tall :)
