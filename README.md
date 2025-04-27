@@ -47,16 +47,7 @@ Follow my research on Research Gate!
 ---
 
 ## 👩‍💻 Code & Tools  
-**Top Languages**: Python, C/C++, Java.  
-
-### Tools and Frameworks:  
-- **Quantum Computing**: Qiskit, PennyLane, Cirq.  
-- **Optimization**: AutoQUBO, Munich Quantum Toolkit, D-Wave Leap, InfinityQ.  
-
-**Open Source Contributions**:  
-- **Quantum Africa Workshops**: Democratizing quantum education in underrepresented regions.  
-- **Qiskit Fall Fest Organiser**: Contributions to open-source quantum programming libraries.  
-- **Quantum Universal Education**: Developing accessible learning materials for quantum computing.  
+**Top Languages**: Python, C/C++, Java.   
 
 ---
 
