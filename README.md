@@ -53,11 +53,17 @@ Follow my research on Research Gate!
 
 ## 🏆 Achievements  
 • **Nominated for the best research paper in the MICCAI Meets Africa workshop 2024.** 
+
 • **Best technical research project in the ACVSS2024 hackathon.** 
+
 • **Best research project award at the 4th Big Data Africa School 2023.** 
+
 • **Special mention poster in the Indaba 2022 Research in Africa Showcase Day.**  
+
 • **Winner of the ideation in Deep Learning Indaba 2022.** 
+
 • **Best product award at Injaz al Arab 2020 (ITdrops junior company).** 
+
 • **Best company award at Injaz el Djzair 2020.**  
 
 ---
